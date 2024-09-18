@@ -1,10 +1,11 @@
-## Hi there 👋
-
-
-<h1 align="center"> I'm Ndidi Obinwanne</h1>
-<h3 align="center">A passionate digital transformation expert, transitioning into full stack development</h3>
+<h1 align="center">Hi 👋, I'm Ndidi Obinwanne</h1>
+<h3 align="center">Budding Full Stack Developer, passionate about products that solve real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobinwanne&label=Profile%20views&color=0e75b6&style=flat" alt="nobinwanne" /> </p>
+
+- 🔭 I’m currently working on [Ballpark Housing](www.ballparkhousing.com)
+
+- 🌱 I’m currently learning **React, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
