@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nobinwanne)](https://github.com/Nobinwanne/github-readme-stats) 
+
 <h1 align="center">Hi 👋, I'm Ndidi Obinwanne</h1>
 <h3 align="center">Budding Full Stack Developer, passionate about products that solve real world problems.</h3>
 
