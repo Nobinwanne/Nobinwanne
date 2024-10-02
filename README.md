@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobinwanne&label=Profile%20views&color=0e75b6&style=flat" alt="nobinwanne" /> </p>
 
-- 🔭 I’m currently working on [Ballpark Housing](www.ballparkhousing.com)
+- 🔭 I’m currently working on [Ballpark Housing](https://github.com/Nobinwanne/ndidi-obinwanne-capstone)
 
 - 🌱 I’m currently learning **React, Node.js, Backend Development**
 
