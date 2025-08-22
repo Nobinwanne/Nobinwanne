@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ballpark Housing](https://github.com/Nobinwanne/ndidi-obinwanne-capstone)
 
-- 🌱 I’m currently learning **TypeScript, Next.js and OAuth**
+- 🌱 I’m currently learning **TypeScript, Next.js and OAuth FME Tan Query Supabase**
 
 - 📫 How to reach me **ndidiobinwanne@gmail.com**
 
